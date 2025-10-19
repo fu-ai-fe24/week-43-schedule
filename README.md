@@ -36,6 +36,7 @@ I denna modul kommer vi att lära oss hur kontextuell AI kan användas för att 
 ### Länkar
 
 * [Course Elements of AI (steg 1-3 relevanta för er)](https://course.elementsofai.com/)
+* [Learn Langchain - Tutorial](https://scrimba.com/learn-langchainjs-c02tv)
 
 ### Övningar 
 
