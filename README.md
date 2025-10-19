@@ -39,4 +39,4 @@ I denna modul kommer vi att lära oss hur kontextuell AI kan användas för att 
 
 ### Övningar 
 
-* [Veckans Code Review-uppgift (steg 2 och 3)](https://gist.github.com/zocom-christoffer-wallenberg/1cf400fb158d95a16d101905f51f789c)
+* [Veckans Code Review-uppgift](https://gist.github.com/zocom-christoffer-wallenberg/1cf400fb158d95a16d101905f51f789c)
