@@ -20,6 +20,7 @@ I denna modul kommer vi att lära oss hur kontextuell AI kan användas för att 
 
 **LIVE**
 
+* [Live 21 okt](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Distans/EaqVP6WkkJVCprC3SFUByucBlUMs38ngP_9CzFVSngSn1A?e=Vbs98N&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Förinspelat**
 
