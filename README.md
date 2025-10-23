@@ -31,7 +31,7 @@ I denna modul kommer vi att lära oss hur kontextuell AI kan användas för att 
 ### Lektionsrepon
 
 * [21 okt](https://github.com/FE24-Utveckling-av-AI-drivna-appar/live-21-oktober)
-  [23 okt](https://github.com/fu-ai-fe24/week-43-lecture-23-okt)
+* [23 okt](https://github.com/fu-ai-fe24/week-43-lecture-23-okt)
 
 ### Filmer
 
